@@ -117,14 +117,6 @@ These are areas for future improvement rather than flaws in the approach — ide
 - **Specialty ambiguity:** Several specialties share overlapping vocabulary, making perfect separation impossible without additional metadata (e.g. ICD codes, department labels).
 - **BioBERT fine-tuning constraints:** Limited Colab GPU compute restricted training depth and hyperparameter search.
 
----
-
-## 📓 View Notebook
-
-[Click here to view the full notebook](https://nbviewer.org/github/TochiOkafor/clinical-notes-classifier/blob/main/notebooks/clinical_notes_classifier.ipynb)
-
----
-
 ## How to Run
 
 1. Open `notebooks/clinical_notes_classifier.ipynb` in [Google Colab](https://colab.research.google.com/)
